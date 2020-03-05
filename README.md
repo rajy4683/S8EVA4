@@ -1,0 +1,2 @@
+# S8EVA4
+Resnet18 on CIFAR10
